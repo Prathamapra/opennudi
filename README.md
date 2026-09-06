@@ -1,2 +1,2 @@
 # opennudi
-This is a betterand open source tool to write  kannada in PC.
+This is a betterand open source tool to write  kannada in PC with voice.
